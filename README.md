@@ -1,2 +1,3 @@
-# Git-and-GitHub-workshop
+# git-and-github-workshop
+
 Git and GitHub workshop
